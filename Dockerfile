@@ -3,7 +3,7 @@
 # ex: docker run bitcrypto/rpi-cpuminer-multi --algo [ALGORITHM] --url stratum+tcp://[URL]:[PORT] --user [USERNAME] --pass [PASSWORD]
 #
 # If you wish to donate BTC to help me continue my efforts please send to this address: 1EZiDpMT8GgDQXcuyZZD7bR5Nydtw3GeU
-*
+
 
 FROM            sdhibit/rpi-raspbian
 MAINTAINER      Elvis Nuno <admin@bitcryp.to>
