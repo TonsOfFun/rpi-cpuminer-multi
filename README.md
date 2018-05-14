@@ -14,9 +14,9 @@ Usage:
 ==============
 There are several ways to configure how the miner runs, but most commonly the simplest way to run the container is as follows:
 
-`docker pull tonsoffun/cpuminer`
+`docker pull tonsoffun/rpi-cpuminer-multi`
 
-`docker run tonsoffun/cpuminer --algo [ALGORITHMS] --url stratum+tcp://[URL]:[PORT] --user [USERNAME] --pass [PASSWORD]`
+`docker run tonsoffun/rpi-cpuminer-multi --algo [ALGORITHMS] --url stratum+tcp://[URL]:[PORT] --user [USERNAME] --pass [PASSWORD]`
 
 Donations:
 ==============
