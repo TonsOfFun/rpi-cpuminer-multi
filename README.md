@@ -14,9 +14,9 @@ Usage:
 ==============
 There are several ways to configure how the miner runs, but most commonly the simplest way to run the container is as follows:
 
-`user@host: docker pull bitcrypto/docker-cpuminer-arm`
+`docker pull tonsoffun/cpuminer`
 
-`user@host: docker run bitcrypto/rpi-cpuminer-multi --algo [ALGORITHMS] --url stratum+tcp://[URL]:[PORT] --user [USERNAME] --pass [PASSWORD]`
+`docker run tonsoffun/cpuminer --algo [ALGORITHMS] --url stratum+tcp://[URL]:[PORT] --user [USERNAME] --pass [PASSWORD]`
 
 Donations:
 ==============
